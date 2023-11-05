@@ -1,3 +1,10 @@
+Fullstack e-commerce using Next.js
+(react.js, mongo, tailwind, styled-components, stripe)
+
+ecommerce-font is a web app that functions as an Ecommerce online store.
+The consumer can see the latest product that Ecommerce offers.
+The consumer can see the full information of products and decide to add them to the cart, followed by a procedure for payment.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
